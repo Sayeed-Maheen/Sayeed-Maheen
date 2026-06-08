@@ -1,32 +1,92 @@
 <h1 align="center">Hi 👋, I'm Md Sayeed Hassan</h1>
-<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
+<h3 align="center">Flutter Developer | Building Cross-Platform Mobile Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeed-maheen&label=Profile%20views&color=0e75b6&style=flat" alt="sayeed-maheen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayeed-maheen" alt="sayeed-maheen" /></a> </p>
-
-- 🔭 I’m currently working on [Noor - Islamic App](https://github.com/Sayeed-Maheen/Islamic-App)
-
-- 🌱 I’m currently learning **java script**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/md-sayeed-hassan-maheen-7886aa210/](https://www.linkedin.com/in/md-sayeed-hassan-maheen-7886aa210/)
-
-- 💬 Ask me about **dart, flutter**
-
-- 📫 How to reach me **sayeedhassan1124@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/md-sayeed-hassan-maheen-7886aa210/](https://www.linkedin.com/in/md-sayeed-hassan-maheen-7886aa210/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-sayeed-hassan-maheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sayeed-hassan-maheen" height="30" width="40" /></a>
+<p align="center">
+  Passionate about creating scalable and user-friendly applications with Flutter, Firebase, and Serverpod.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayeed-maheen&show_icons=true&locale=en&layout=compact" alt="sayeed-maheen" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayeed-maheen&show_icons=true&locale=en" alt="sayeed-maheen" /></p>
+- 🔭 Currently working on **[Noor - Islamic App](https://github.com/Sayeed-Maheen/Islamic-App)**
+- 🌱 Currently learning **JavaScript** and **Python**
+- 💬 Ask me about **Flutter, Dart, Firebase, Serverpod**
+- 📫 Reach me at **sayeedhassan1124@gmail.com**
+- 💼 Explore my professional experience on **[LinkedIn](https://linkedin.com/in/md-sayeed-hassan-maheen)**
+- 🇧🇩 Based in Bangladesh
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayeed-maheen&" alt="sayeed-maheen" /></p>
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/md-sayeed-hassan-maheen" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,javascript,c,cpp,git,figma,postman,mysql,vscode,linux" />
+</p>
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/serverpod" alt="Serverpod" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/insomnia" alt="Insomnia" width="48" height="48"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayeed-Maheen&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayeed-Maheen&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeed-Maheen&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Noor - Islamic App
+A Flutter application focused on providing Islamic resources and delivering a modern user experience.
+
+### ✅ Serverpod Todo App
+A full-stack Flutter application powered by Serverpod.
+
+### 🏢 ERP Application
+Enterprise Resource Planning system with modern architecture and scalable backend solutions.
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- Python
+- Serverpod
+- Clean Architecture
+- Backend Development
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on Flutter projects and learning new technologies.
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayeed-Maheen&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <i>Code • Learn • Build • Improve 🚀</i>
+</p>
