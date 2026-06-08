@@ -18,11 +18,11 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/md-sayeed-hassan-maheen" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
@@ -31,25 +31,49 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,javascript,c,cpp,git,figma,postman,mysql,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,javascript,c,cpp,git,github,figma,postman,mysql,linux,vscode" />
 </p>
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/serverpod" alt="Serverpod" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/insomnia" alt="Insomnia" width="48" height="48"/>
+  <a href="https://serverpod.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/101559230?s=200&v=4"
+         alt="Serverpod"
+         width="48"
+         height="48"/>
+  </a>
+
+  <img src="https://cdn.simpleicons.org/insomnia"
+       alt="Insomnia"
+       width="48"
+       height="48"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayeed-Maheen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayeed-Maheen&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayeed-Maheen&theme=tokyonight"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeed-Maheen&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayeed-Maheen&theme=tokyonight"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayeed-Maheen&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayeed-Maheen&theme=tokyonight"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayeed-Maheen&theme=tokyonight&utcOffset=6"
+  />
 </p>
 
 ---
@@ -57,12 +81,25 @@
 ## 🚀 Featured Projects
 
 ### 📱 Noor - Islamic App
+
 A Flutter application focused on providing Islamic resources and delivering a modern user experience.
 
+🔗 Repository:  
+https://github.com/Sayeed-Maheen/Islamic-App
+
+---
+
 ### ✅ Serverpod Todo App
-A full-stack Flutter application powered by Serverpod.
+
+A full-stack Flutter application powered by Serverpod and PostgreSQL.
+
+🔗 Repository:  
+https://github.com/Sayeed-Maheen/serverpod-todo-app
+
+---
 
 ### 🏢 ERP Application
+
 Enterprise Resource Planning system with modern architecture and scalable backend solutions.
 
 ---
@@ -84,7 +121,7 @@ I'm always interested in collaborating on Flutter projects and learning new tech
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayeed-Maheen&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayeed-Maheen&theme=tokyonight"/>
 </p>
 
 <p align="center">
